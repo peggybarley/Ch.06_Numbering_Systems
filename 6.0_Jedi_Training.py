@@ -1,12 +1,18 @@
 '''
-Sign your name:________________
+Sign your name: Peggy Barley
 
 
 1.) Convert Binary 101010 to Hexadecimal.
 
+        2A
+
 2.) Convert Binary 11101001 to Octal.
 
+        351
+
 3.) Convert Hexadecimal FC to Binary.
+
+        1101111
 
 4.) Convert Hexadecimal 1F to Decimal.
 
