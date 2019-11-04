@@ -16,11 +16,18 @@ Sign your name: Peggy Barley
 
 4.) Convert Hexadecimal 1F to Decimal.
 
+        31
+
 5.) Convert Hexadecimal #FAAFBD to RGB.
+
 
 6.) Convert Octal 70 to Binary.
 
+        000111
+
 7.) Convert RGB (32,128,64) to Hexadecimal.
+
+
 
 8.) Convert 01000001, 01010011, 01000011, 01001001, 01001001 to ASCII.
 
