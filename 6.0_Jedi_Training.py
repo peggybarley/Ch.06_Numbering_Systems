@@ -12,7 +12,7 @@ Sign your name: Peggy Barley
 
 3.) Convert Hexadecimal FC to Binary.
 
-        1101111
+      11111100
 
 4.) Convert Hexadecimal 1F to Decimal.
 
@@ -24,7 +24,7 @@ Sign your name: Peggy Barley
 
 6.) Convert Octal 70 to Binary.
 
-        000111
+        111000
 
 7.) Convert RGB (32,128,64) to Hexadecimal.
 
